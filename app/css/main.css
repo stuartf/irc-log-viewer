@@ -7,3 +7,20 @@
 #messages {
   margin-left: 110px;
 }
+
+#calendar-56 {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #000;
+  border-radius: 6px;
+}
+
+table.jCalendar {
+  background: none repeat scroll 0 0 #FFF;
+  border: none;
+}
+
+table.jCalendar td {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #CCC;
+  padding: 2px 4px;
+}
